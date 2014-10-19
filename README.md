@@ -1,4 +1,4 @@
 Reaktor_Files
 =============
 
-Reaktorのマクロなど
+Reaktor Instruments(ism), Core cells(rcc), etc.
